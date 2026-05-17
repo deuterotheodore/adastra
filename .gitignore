@@ -1,0 +1,10 @@
+# vendored library — load from CDN or supply separately
+three.min.js
+
+# private scratchpad
+todo.txt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
